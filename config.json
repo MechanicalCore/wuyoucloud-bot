@@ -1,0 +1,5 @@
+{
+    "telegram_bot_token": "you bot token",
+    "admin_user_ids": "you admin id",
+    "notification_group_ids": "the group id"
+}
